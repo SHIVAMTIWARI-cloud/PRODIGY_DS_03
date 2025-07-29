@@ -7,7 +7,7 @@ Build a Decision Tree Classifier to predict whether a customer will purchase a p
 
 ## 🧩 Dataset
 - **Source:** UCI Bank Marketing dataset
-- **File Used:** `bank.csv`
+- **File Used:** 'bank-full.csv','bank-additional-full.csv'
 
 ## 📊 Features
 - Age, Job, Marital Status, Education, Default, Housing, Loan, Contact, etc.
@@ -31,6 +31,6 @@ Model is trained and evaluated successfully.
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Shivam Tiwari  
 **Internship**: Prodigy Infotech - Data Science Internship  
 **Duration**: July 2025  
